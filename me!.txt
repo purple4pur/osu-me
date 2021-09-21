@@ -11,7 +11,7 @@
 [notice]
 [box=Thanks]
 误打误撞，从单打独斗变成「酬勤屙屎狂人」，谢谢大家：
-[profile=6397367]Hunxin[/profile] / [profile=19171592]Natsumedesu[/profile] / [profile=11777879]rsshower[/profile] / [profile=21689209]AkiChen[/profile] / [profile=21724526]Disjudge[/profile]  / [profile=19171701]Sand-Star[/profile] / [profile=7798860]dhui[/profile] / ...
+[profile=6397367]Hunxin[/profile] / [profile=19171592]Hoshino-Natsume[/profile] / [profile=11777879]rsshower[/profile] / [profile=21689209]AkiChen[/profile] / [profile=21724526]Disjudge[/profile]  / [profile=19171701]Sand-Star[/profile] / [profile=7798860]dhui[/profile] / ...
 [/box]
 
 [box=Timeline]
@@ -22,7 +22,8 @@
 2021-05-10 : mania 4k 从零开始捏
 2021-06-16 : 超 pp 上限 (2800pp) 离开新人群，缓慢感知自己的进步
 2021-06-23 : 半 AFK，多读书，osu! 不能当饭吃
-2021-08-29 : 快月底了一看 Play History，笑死根本 A 不了，这下要没书读了
+2021-08-29 : A 了，但没完全 A
+2021-09-21 : 左手 /remake 练强双 [大脑升级中...]
 [/box]
 
 [box=Skins]
@@ -30,7 +31,7 @@
 [/box]
 
 [box=Specs]
-Tablet : WACOM CTL-472 @ [url=https://purple4pur.s-ul.eu/9OGSTqMJ]Area[/url]
+Tablet : WACOM CTL-472 @ [s][url=https://purple4pur.s-ul.eu/9OGSTqMJ]Area[/url][/s]
 Display : [s]2560*1080 @ 60 / 1920*1080 @ 144[/s] / 3840*2160 @ 60
 Keyboard : IQUNIX F60 Cherry @ 樱桃银
 Keypad : Sayobot O2Cv2 @ TTC金粉
@@ -49,6 +50,7 @@ Computer : MSI GF65 / i7-10750H / RTX 3060 Laptop / 16G
 [/box]
 
 [box=TOTAL PP]
+mania 1500pp ~ 2021-09-12
 mania 1000pp ~ 2021-07-26
 2500pp ~ 2021-04-17
 2000pp ~ 2021-03-19
