@@ -24,6 +24,8 @@
 2021-06-23 : 半 AFK，多读书，osu! 不能当饭吃
 2021-08-29 : A 了，但没完全 A
 2021-09-21 : 左手 /remake 练强双 [大脑升级中...]
+2021-11-15 : osu! 是什么读书敌人，麻溜点删了（C 盘一下子多了 25G 空间 www）
+2021-11-19 : 1st Anniversary! [url=https://purple4pur.s-ul.eu/JgxJtnAG]Profile screenshot[/url]
 [/box]
 
 [box=Skins]
@@ -31,10 +33,10 @@
 [/box]
 
 [box=Specs]
-Tablet : WACOM CTL-472 @ [s][url=https://purple4pur.s-ul.eu/9OGSTqMJ]Area[/url][/s]
-Display : [s]2560*1080 @ 60 / 1920*1080 @ 144[/s] / 3840*2160 @ 60
+Tablet : WACOM CTL-472 @ 32mm*18mm
+Display : [s]2560*1080 @ 60 / 1920*1080 @ 144 / 3840*2160 @ 60[/s] / 2560*1440 @ 144
 Keyboard : IQUNIX F60 Cherry @ 樱桃银
-Keypad : Sayobot O2Cv2 @ TTC金粉
+Keypad : Sayobot O2Cv2 @ box 白
 Mouse : Logitech M590
 Computer : MSI GF65 / i7-10750H / RTX 3060 Laptop / 16G
 [/box]
@@ -44,19 +46,23 @@ Computer : MSI GF65 / i7-10750H / RTX 3060 Laptop / 16G
 
 [notice]
 [box=FIRST HIGH PP PLAY]
-乐了 2021-08-01 pp recalc 把我 150pp 独苗砍到 148pp，蚌埠住了
+乐又乐 2021-11-10 PP Rework 我的 150pp 又回来了！（甚至还多了一个
+乐了 2021-08-01 PP Rework 把我 150pp 独苗砍到 148pp，蚌埠住了
 150pp ~ 2021-06-21 麻了怎么用了这么久x
 100pp ~ 2021-03-10
 [/box]
 
 [box=TOTAL PP]
-mania 1500pp ~ 2021-09-12
-mania 1000pp ~ 2021-07-26
+3000pp ~ 2022-01-08
 2500pp ~ 2021-04-17
 2000pp ~ 2021-03-19
+mania 1500pp ~ 2021-09-12
+mania 1000pp ~ 2021-07-26
 [/box]
 
 [box=RANK]
+Peak Ranking #157,486 ~ 2021-11-14 (by PP Rework)
+
 #200,000 ~ 2021-05-08
 #300,000 ~ 2021-03-11
 [/box]
