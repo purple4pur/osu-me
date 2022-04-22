@@ -29,7 +29,7 @@
 [box=Specs]
 Tablet : WACOM CTL-472 @ 40mm*22.5mm
 Display : [s]2560*1080 @ 60 / 1920*1080 @ 144 / 3840*2160 @ 60[/s] / 2560*1440 @ 144
-Keyboard : [s]IQUNIX F60 Cherry @ 樱桃银[/s] / Corgi 65 @ ttc 金粉
+Keyboard : [s]IQUNIX F60 Cherry @ 樱桃银[/s] / Corgi 65 @ TTC 金粉
 Keypad : Sayobot O2Cv2 @ box 白
 Mouse : Logitech M590
 Computer : MSI GF65 / i7-10750H / RTX 3060 Laptop / 16G
