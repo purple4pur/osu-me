@@ -1,11 +1,4 @@
-[centre][url=https://www.icourse163.org/][img]https://purple4pur.s-ul.eu/ujysaD5b[/img][/url][/centre]
-随缘上分，日常听歌。[s]（打得上去谁™听歌）[/s]
-
-[s]-竖板 yyds！[/s]
-あの、怎么戳泡泡来着？
-
-[centre][size=150]NJUPT Collab[/size]
-
+[centre][size=150]❤️ NJUPT Collab ❤️[/size]
 [url=https://osu.ppy.sh/users/21724526][img]https://purple4pur.s-ul.eu/fSuO6Twn[/img][/url][url=https://osu.ppy.sh/users/21689209][img]https://purple4pur.s-ul.eu/tOWiUQ1t[/img][/url][url=https://osu.ppy.sh/users/19171592][img]https://purple4pur.s-ul.eu/pnJtsXf1[/img][/url][url=https://osu.ppy.sh/users/13190119][img]https://purple4pur.s-ul.eu/39uehauu[/img][/url][url=https://osu.ppy.sh/users/6397367][img]https://purple4pur.s-ul.eu/IrQpl7fx[/img][/url][url=https://osu.ppy.sh/users/19433402][img]https://purple4pur.s-ul.eu/JEPp3Oox[/img][/url][url=https://osu.ppy.sh/users/11777879][img]https://purple4pur.s-ul.eu/93I4s2qQ[/img][/url][/centre]
 
 [notice]
@@ -26,16 +19,17 @@
 2021-09-21 : 左手 /remake 练强双 [大脑升级中...]
 2021-11-15 : osu! 是什么读书敌人，麻溜点删了（C 盘一下子多了 25G 空间 www）
 2021-11-19 : 1st Anniversary! [url=https://purple4pur.s-ul.eu/JgxJtnAG]Profile screenshot[/url]
+2022-04-22 : 好久没写了…… std 不会 aim 了，寄寄子，mania 真好玩
 [/box]
 
 [box=Skins]
-[url=https://github.com/purple4pur/osu-skins]GitHub[/url] | [url=https://cloud.lilywhite.cc/s/o3zFZ]莉莉云[/url]
+[url=https://github.com/purple4pur/osu-skins]github.com/purple4pur/osu-skins[/url]
 [/box]
 
 [box=Specs]
-Tablet : WACOM CTL-472 @ 32mm*18mm
+Tablet : WACOM CTL-472 @ 40mm*22.5mm
 Display : [s]2560*1080 @ 60 / 1920*1080 @ 144 / 3840*2160 @ 60[/s] / 2560*1440 @ 144
-Keyboard : IQUNIX F60 Cherry @ 樱桃银
+Keyboard : [s]IQUNIX F60 Cherry @ 樱桃银[/s] / Corgi 65 @ ttc 金粉
 Keypad : Sayobot O2Cv2 @ box 白
 Mouse : Logitech M590
 Computer : MSI GF65 / i7-10750H / RTX 3060 Laptop / 16G
@@ -46,6 +40,7 @@ Computer : MSI GF65 / i7-10750H / RTX 3060 Laptop / 16G
 
 [notice]
 [box=FIRST HIGH PP PLAY]
+mania 100pp ~ 2022-03-13
 乐又乐 2021-11-10 PP Rework 我的 150pp 又回来了！（甚至还多了一个
 乐了 2021-08-01 PP Rework 把我 150pp 独苗砍到 148pp，蚌埠住了
 150pp ~ 2021-06-21 麻了怎么用了这么久x
@@ -56,6 +51,7 @@ Computer : MSI GF65 / i7-10750H / RTX 3060 Laptop / 16G
 3000pp ~ 2022-01-08
 2500pp ~ 2021-04-17
 2000pp ~ 2021-03-19
+mania 2000pp ~ 2022-03-23
 mania 1500pp ~ 2021-09-12
 mania 1000pp ~ 2021-07-26
 [/box]
@@ -67,3 +63,5 @@ Peak Ranking #157,486 ~ 2021-11-14 (by PP Rework)
 #300,000 ~ 2021-03-11
 [/box]
 [/notice]
+
+[url=https://github.com/purple4pur/osu-me/blob/master/me!.txt]Source[/url]
